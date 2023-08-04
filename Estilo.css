@@ -1,0 +1,61 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+h1#nombre {
+    color: rgb(156, 60, 0);
+    font-style: bold;
+    margin: 0;
+}
+
+main {
+    padding: 20px;
+}
+
+section {
+    margin-bottom: 30px;
+}
+
+img {
+    width: 20%;
+    height: 20%;
+}
+
+id#link {
+    color: blue;
+}
+
+h2.resaltado {
+    color: #fff;
+    background-color: #333;
+    width: fit-content;
+}
+
+h2.relevante {
+    color: #fff;
+    background-color: #333;
+    width: fit-content;
+}
+
+h2.importante {
+    color: #fff;
+    background-color: #333;
+    width: fit-content;
+}
+
+p {
+    line-height: 1.5;
+}
+
+footer {
+    background-color: #333;
+}
